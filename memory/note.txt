@@ -1,0 +1,9 @@
+Transformer based generative models don't have built in memory at the time of executing sessions/actions.
+
+1. ConversationBufferMemory
+2. ConversationSummaryMemory
+3. ConversationBufferWindowMemory
+4. ConversationBufferSummaryMemory
+5. Conversation Knowledge graph memory
+6. Custom memory
+7. Entity Memory

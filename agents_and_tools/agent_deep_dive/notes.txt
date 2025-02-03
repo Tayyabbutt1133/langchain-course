@@ -1,0 +1,5 @@
+- Tool Chaining : Simple, sequential execution of tools.
+- Create_react_agent and AgentExecutor : Interactive, dynamic workflows where reasoning and acting are combined.
+- LangGraph: Complex, multi-agent orchestration with conditional nodes and advanced decision-making.
+- Memory : ConversationBufferMemory -> it is used to memorize conversations of humans and AI
+- create_structured_chat_agent -> initializes a chat agent designed to interact using a structured prompt and tools

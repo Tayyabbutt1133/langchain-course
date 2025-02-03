@@ -1,0 +1,13 @@
+Chaining possibilities 
+1. Extended 
+2. Parallel 
+3. Branching
+
+
+what is Langchain expression Language (LCEL) ? 
+The LangChain Expression Language (LCEL) takes a declarative approach to building new Runnables from existing Runnables.
+
+This means that you describe what should happen, rather than how it should happen, allowing LangChain to optimize the run-time execution of the chains.
+
+
+what is Runnables Interface ? 
